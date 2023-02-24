@@ -29,6 +29,9 @@ The application will allow a user to access courses in Hindu Language.
 
 ![Translate to Hindu](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/baf97e9aed6a5b4a3d4431210631af6a79e6972d/screenshots/Screenshot%20from%203.png)
 
+5. VsCode Editor
+
+![vscode](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/baf97e9aed6a5b4a3d4431210631af6a79e6972d/screenshots/Screenshot%20from%203.png)
 
 ## Live Link
 
