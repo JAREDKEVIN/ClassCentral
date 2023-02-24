@@ -18,7 +18,7 @@ The application will allow a user to access courses in Hindu Language.
 
 2.Google Translate was Used to Translate some words.
 
-![Google translate](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/baf97e9aed6a5b4a3d4431210631af6a79e6972d/screenshots/Screenshot%20from%202.png)
+![Google translate](https://github.com/JAREDKEVIN/ClassCentral/blob/41d7aee4a73942a59c20d848b7afe61e4d4e0e0d/assets/google%20translate%20screenshot.PNG)
 
 
 3.The Report page  Translated Into Hindu.
