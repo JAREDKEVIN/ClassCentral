@@ -13,7 +13,7 @@ The application will allow a user to access courses in Hindu Language.
 
 1.Commit Messages for translating pages,around 100 commit messages.
 
-![Commit Messages](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/9eabd0c68f91dbdeac5be7d92b7c25131567f374/screenshots/Screenshot%201.png)
+![Commit Messages](https://github.com/JAREDKEVIN/ClassCentral/blob/ca5c127dc2fb305a97c6e291255a1d690b7d73d2/assets/commits%20screenshot.PNG)
 
 
 2.Google Translate was Used to Translate some words.
