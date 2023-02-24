@@ -13,21 +13,21 @@ The application will allow a user to access courses in Hindu Language.
 
 1.Commit Messages for translating pages,around 100 commit messages.
 
-![Commit Messages](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/9eabd0c68f91dbdeac5be7d92b7c25131567f374/screenshots/Screenshot%201.png)
+![Commit Messages](https://github.com/JAREDKEVIN/ClassCentral/blob/ca5c127dc2fb305a97c6e291255a1d690b7d73d2/assets/commits%20screenshot.PNG)
 
 
 2.Google Translate was Used to Translate some words.
 
-![Google translate](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/baf97e9aed6a5b4a3d4431210631af6a79e6972d/screenshots/Screenshot%20from%202.png)
+![Google translate](https://github.com/JAREDKEVIN/ClassCentral/blob/41d7aee4a73942a59c20d848b7afe61e4d4e0e0d/assets/google%20translate%20screenshot.PNG)
 
 
 3.The Report page  Translated Into Hindu.
 
-![Report Page](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/baf97e9aed6a5b4a3d4431210631af6a79e6972d/screenshots/Screenshot%20from%203.png)
+![Report Page](https://github.com/JAREDKEVIN/ClassCentral/blob/29951f0dfc739a631438e55a7b5e4e4a2429d406/assets/The%20Report%20screenshot.png)
 
 4.Translate to Hindu Option on the inspect option on the browser.
 
-![Translate to Hindu](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/baf97e9aed6a5b4a3d4431210631af6a79e6972d/screenshots/Screenshot%20from%203.png)
+![Translate to Hindu](https://github.com/JAREDKEVIN/ClassCentral/blob/71ae3e5b70ace21d71d62bb567bd8f8184b9f17c/assets/translate%20to%20hindi.png)
 
 5. VsCode Editor
 
