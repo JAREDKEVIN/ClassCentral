@@ -9,7 +9,7 @@ Kipkemoi Jared Kevin
 ## Description
 The application will allow a user to access courses in Hindi Language.
 
-## User Experience
+# Procedure
 
 1.Commit Messages for translating pages,around 100 commit messages.
 
