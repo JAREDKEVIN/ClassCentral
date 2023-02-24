@@ -31,7 +31,7 @@ The application will allow a user to access courses in Hindi Language.
 
 5. VsCode Editor
 
-![vscode](assets/vscode editor.PNG)
+![vscode](https://github.com/JAREDKEVIN/ClassCentral/blob/fb26420d4dd69b6d328cacd42ee323f60c3d1dd3/assets/vscode%20editor.PNG))
 
 ## Live Link
 
