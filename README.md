@@ -23,7 +23,7 @@ The application will allow a user to access courses in Hindu Language.
 
 3.The Report page  Translated Into Hindu.
 
-![Report Page](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/baf97e9aed6a5b4a3d4431210631af6a79e6972d/screenshots/Screenshot%20from%203.png)
+![Report Page](https://github.com/JAREDKEVIN/ClassCentral/blob/29951f0dfc739a631438e55a7b5e4e4a2429d406/assets/The%20Report%20screenshot.png)
 
 4.Translate to Hindu Option on the inspect option on the browser.
 
