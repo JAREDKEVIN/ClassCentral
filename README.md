@@ -1,7 +1,7 @@
 # CODINGALLSTARS ASSESMENT
 
 This is an assessment, Translating not only  the Homepage one layer deep into the HTML templates.I used 
-[HTTracker Website Copier](https://www.httrack.com/)  to 
+[HTTracker Website Copier](https://www.httrack.com/)  to help in sourcing some of the pages.
 
 ## Author
 Kipkemoi Jared Kevin
@@ -35,6 +35,8 @@ The application will allow a user to access courses in Hindi Language.
 
 ## Live Link
 
+![DEPLOYED ON VERCEL)(https://class-central-ndcr8cvbm-jaredkevin.vercel.app/)
+
 
 ## Prerequisities
 IDE- Vscode/ Atom or any other code editor of choice.
@@ -43,22 +45,22 @@ Workstation/Laptop.
 
 
 ## User Stories
-As User you will like to:
+As User you would like to:
 
--Search for courses..
--View posted courses and their details in Hindu Language.
--Sign In and Login Using Hindu languge.
--View my courses in Hindu language.
+*Search for courses..
+*View posted courses and their details in Hindu Language.
+*Sign In and Login Using Hindu languge.
+*View my courses in Hindu language.
 
 ## Contributing in Continous Intergration and Development.
 If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
-1.Fork the Project.
-2.Create your Feature Branch (git checkout -b feature/gh-pages)
-3.Commit your Changes (git commit -m 'first-commit')
-4.Push to the Branch (git push origin master)
-5.Open a Pull Request.
-6.Merge branches.
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b gh-pages)
+3. Commit your Changes (git commit -m 'first-commit')
+4. Push to the Branch (git push origin master)
+5. Open a Pull Request.
+6. Merge branches.
 
 ## Known Bugs
 There are no known bugs.
