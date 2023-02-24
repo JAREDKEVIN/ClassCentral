@@ -7,7 +7,7 @@ This is an assessment, Translating not only  the Homepage one layer deep into th
 Kipkemoi Jared Kevin
 
 ## Description
-The application will allow a user to access courses in Hindu Language.
+The application will allow a user to access courses in Hindi Language.
 
 ## User Experience
 
@@ -21,7 +21,7 @@ The application will allow a user to access courses in Hindu Language.
 ![Google translate](https://github.com/JAREDKEVIN/ClassCentral/blob/41d7aee4a73942a59c20d848b7afe61e4d4e0e0d/assets/google%20translate%20screenshot.PNG)
 
 
-3.The Report page  Translated Into Hindu.
+3.The Report page  Translated Into Hindi.
 
 ![Report Page](https://github.com/JAREDKEVIN/ClassCentral/blob/29951f0dfc739a631438e55a7b5e4e4a2429d406/assets/The%20Report%20screenshot.png)
 
@@ -31,7 +31,7 @@ The application will allow a user to access courses in Hindu Language.
 
 5. VsCode Editor
 
-![vscode](https://github.com/JAREDKEVIN/Awwards-Web-App/blob/baf97e9aed6a5b4a3d4431210631af6a79e6972d/screenshots/Screenshot%20from%203.png)
+![vscode](assets/vscode editor.PNG)
 
 ## Live Link
 
