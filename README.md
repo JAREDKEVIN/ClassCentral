@@ -35,7 +35,7 @@ The application will allow a user to access courses in Hindi Language.
 
 ## Live Link
 
-[DEPLOYED ON VERCEL)(https://class-central-ndcr8cvbm-jaredkevin.vercel.app/)
+[DEPLOYED ON VERCEL](https://class-central-ndcr8cvbm-jaredkevin.vercel.app/)
 
 
 ## Prerequisities
@@ -47,20 +47,20 @@ Workstation/Laptop.
 ## User Stories
 As User you would like to:
 
-*Search for courses..
-*View posted courses and their details in Hindu Language.
-*Sign In and Login Using Hindu languge.
-*View my courses in Hindu language.
+* Search for courses..
+* View posted courses and their details in Hindu Language.
+* Sign In and Login Using Hindu languge.
+* View my courses in Hindu language.
 
 ## Contributing in Continous Intergration and Development.
 If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b gh-pages)
-3. Commit your Changes (git commit -m 'first-commit')
-4. Push to the Branch (git push origin master)
-5. Open a Pull Request.
-6. Merge branches.
+* Fork the Project
+* Create your Feature Branch (git checkout -b gh-pages)
+* Commit your Changes (git commit -m 'first-commit')
+* Push to the Branch (git push origin master)
+* Open a Pull Request.
+* Merge branches.
 
 ## Known Bugs
 There are no known bugs.
