@@ -35,7 +35,7 @@ The application will allow a user to access courses in Hindi Language.
 
 ## Live Link
 
-![DEPLOYED ON VERCEL)(https://class-central-ndcr8cvbm-jaredkevin.vercel.app/)
+[DEPLOYED ON VERCEL)(https://class-central-ndcr8cvbm-jaredkevin.vercel.app/)
 
 
 ## Prerequisities
